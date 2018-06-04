@@ -1,4 +1,4 @@
-Visualiza en www,eberesquivel.com/proyectos
+Visualiza en www.eberesquivel.com/proyectos
 o 
 https://eberesquivel.github.io/portafoliohtml5/
  
